@@ -9,7 +9,7 @@ class Solution:
                 nums.pop(nums.index(number))
                 index -= 1
             index += 1
-        return index + 1
+        return len(nums)
 
 solution = Solution()
 nums = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
