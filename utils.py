@@ -6,4 +6,4 @@ def add_underscores_to_title(title: str) -> str:
     )
 
 
-print(add_underscores_to_title('1282. Group the People Given the Group Size They Belong To'))
+print(add_underscores_to_title(''))
