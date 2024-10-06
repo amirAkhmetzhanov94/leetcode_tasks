@@ -1,8 +1,5 @@
 import re
 
-
-
-
 class Solution:
     def isValid(self, s: str) -> bool:
         while True:
